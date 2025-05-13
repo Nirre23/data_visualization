@@ -1,0 +1,25 @@
+.custom-title {
+    color: darkcyan;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.card {
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(255,255,255,0.1);
+}
+
+
+.button {
+    background-color: white;
+    border: none;
+    color:darkcyan;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.slider input[type=range] {
+    accent-color: darkcyan;
+}

@@ -1,0 +1,22 @@
+@import "variables.css";
+@import "layout_primitives.css";
+
+h1 {
+  font-size: var(--s2);
+}
+
+h2 {
+  font-size: var(--s1);
+}
+
+p {
+  font-size: var(--s0);
+}
+
+button-color {
+  color: lawngreen;
+}
+
+.left-margin-md {
+  margin-left: var(--s0);
+}
