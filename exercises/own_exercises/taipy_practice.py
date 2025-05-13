@@ -38,5 +38,5 @@ with tgb.Page() as page:
                 tgb.text("💡 **Tips:** Du kan kombinera flera UI-element för att skapa mer avancerade dashboards.", mode="md")   
         
 if __name__ =='__main__':
-    Gui(page,css_file="style.css").run(dark_mode=True,use_reloader=True)        
+    Gui(page,css_file="style.css").run(dark_mode=False,use_reloader=True)        
         

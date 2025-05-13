@@ -43,4 +43,4 @@ with tgb.Page() as page:
         tgb.chart(figure="{gdp_chart_figure}")  # <- rätta detta, ta bort type, x, y, color
     
 # Starta GUI
-Gui(page).run(dark_mode=True, use_reloader=True)
+Gui(page).run(dark_mode=False, use_reloader=True)
