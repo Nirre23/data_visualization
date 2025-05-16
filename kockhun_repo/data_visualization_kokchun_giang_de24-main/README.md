@@ -1,2 +1,0 @@
-# data_visualization_kokchun_giang_de24
-learning data visualization
